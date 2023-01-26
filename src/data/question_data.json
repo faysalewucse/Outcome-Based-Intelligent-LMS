@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "course": "Discrete Mathematics",
+    "course_code": "CSE106",
+    "exam": "Final",
+    "course_outcome": "CO3",
+    "question": "Determine the big- representation for the following function:"
+  },
+  {
+    "id": 2,
+    "course": "Discrete Mathematics",
+    "course_code": "CSE106",
+    "exam": "Final",
+    "course_outcome": "CO3",
+    "question": "Determine the time complexity of the following algorithm."
+  },
+  {
+    "id": 3,
+    "course": "Discrete Mathematics",
+    "course_code": "CSE106",
+    "exam": "Final",
+    "course_outcome": "CO3",
+    "question": "Determine whether 11, 17, 19, and 31 are pairwise relatively prime."
+  },
+  {
+    "id": 4,
+    "course": "Discrete Mathematics",
+    "course_code": "CSE106",
+    "exam": "Final",
+    "course_outcome": "CO4",
+    "question": "Show that the theorem Σ𝑣∈𝑉 deg−(𝑣) = Σ𝑣∈𝑉 deg+(𝑣) = |𝐸| holds for the following directed graph, when the symbols have their usual meanings."
+  },
+  {
+    "id": 5,
+    "course": "Discrete Mathematics",
+    "course_code": "CSE106",
+    "exam": "Final",
+    "course_outcome": "CO4",
+    "question": "Determine whether the following graph is bipartite:"
+  },
+  {
+    "id": 5,
+    "course": "Discrete Mathematics",
+    "course_code": "CSE106",
+    "exam": "Final",
+    "course_outcome": "CO4",
+    "question": "Following is an adjacency matrix of an undirected graph. Assuming the order of the vertices a, b, c, d, e, show that the handshaking theorem holds for this graph."
+  },
+  {
+    "id": 5,
+    "course": "Discrete Mathematics",
+    "course_code": "CSE106",
+    "exam": "Final",
+    "course_outcome": "CO4",
+    "question": "A full 4-ary tree has 7 leaves. Determine the number of vertices and the number of internal vertices of the tree."
+  }
+]

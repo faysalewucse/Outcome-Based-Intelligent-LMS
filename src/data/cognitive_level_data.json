@@ -1,0 +1,124 @@
+[
+  {
+    "level": "C1",
+    "keywords": [
+      "define",
+      "describe",
+      "draw",
+      "find",
+      "identify",
+      "label",
+      "list",
+      "match",
+      "name",
+      "quote",
+      "recall",
+      "recite",
+      "tell",
+      "write"
+    ]
+  },
+  {
+    "level": "C2",
+    "keywords": [
+      "classify",
+      "compare",
+      "exemplify",
+      "conclude",
+      "demonstrate",
+      "discuss",
+      "determine",
+      "explain",
+      "identify",
+      "illustrate",
+      "interpret",
+      "paraphrase",
+      "predict",
+      "report"
+    ]
+  },
+  {
+    "level": "C3",
+    "keywords": [
+      "apply",
+      "change",
+      "choose",
+      "compute",
+      "dramatize",
+      "implement",
+      "interview",
+      "prepare",
+      "produce",
+      "role",
+      "play",
+      "select",
+      "show",
+      "transfer",
+      "use"
+    ]
+  },
+  {
+    "level": "C4",
+    "keywords": [
+      "analyze",
+      "characterize",
+      "classify",
+      "compare",
+      "contrast",
+      "debate",
+      "deconstruct",
+      "deduce",
+      "differentiate",
+      "discriminate",
+      "distinguish",
+      "examine",
+      "organize",
+      "outline",
+      "relate",
+      "research",
+      "separate",
+      "structure"
+    ]
+  },
+  {
+    "level": "C5",
+    "keywords": [
+      "appraise",
+      "argue",
+      "assess",
+      "choose",
+      "conclude",
+      "critique",
+      "decide",
+      "evaluate",
+      "judge",
+      "justify",
+      "predict",
+      "prioritize",
+      "prove",
+      "rank",
+      "rate",
+      "select",
+      "monitor"
+    ]
+  },
+  {
+    "level": "C6",
+    "keywords": [
+      "construct",
+      "design",
+      "develop",
+      "generate",
+      "hypothesize",
+      "invent",
+      "plan",
+      "produce",
+      "compose",
+      "create",
+      "make",
+      "perform",
+      "plan",
+      "produce"
+    ]
+  }
+]
